@@ -14,13 +14,13 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 - 👯 I’m looking to collaborate on Open-Source Projects  
 - 🤔 I’m looking for help with Open-Source Contributors 
 - 💬 Ask me about Data Science 
-- 📫 How to reach me: mohd.mudassiruddin7@gmail.com 
+- 📫 How to reach me: mdkaifpasha2k@gmail.com 
 - ⚡ Fun fact: Numbers don't lie, they reveal!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mohammed_kaif_56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_kaif_56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammedkaifpasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedkaifpasha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-kaif-pasha-138003255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl%2B57DkwtQz2TeqY86lKQ%2Bg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedkaifpasha" height="30" width="40" /></a>
 
 </p>
 

@@ -24,4 +24,7 @@ Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 <a href="https://leetcode.com/u/mohammed05/" target="_blank">
 <img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="LeetCode Icon" class="leetcode-icon" height="30" width="40">
   </a>
+  <a href="https://www.codechef.com/users/mohammed05" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/CodeChef_logo.png/220px-CodeChef_logo.png" alt="CodeChef Icon" class="codechef-icon height="30" width="40">
+    </a>
 </p>
